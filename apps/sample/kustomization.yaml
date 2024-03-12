@@ -2,10 +2,10 @@ apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
 
 resources:
-  - deployment.yaml
-  - service.yaml
+- deployment.yaml
+- service.yaml
 
 images:
-  - name: sample-api
-    newName: guilhermefaleiros/sample-api
-    newTag: latest
+- name: sample-api
+  newName: guilhermefaleiros/sample-api
+  newTag: 70b520b6fb4ffbd8fbe838d86d075265de2eb0b3
