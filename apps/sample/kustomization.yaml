@@ -8,4 +8,4 @@ resources:
 images:
 - name: sample-api
   newName: guilhermefaleiros/sample-api
-  newTag: 70b520b6fb4ffbd8fbe838d86d075265de2eb0b3
+  newTag: 93b113f1d1290b4e714a302d40c172e725c2c2ed
