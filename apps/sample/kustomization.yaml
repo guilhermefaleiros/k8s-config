@@ -7,5 +7,5 @@ resources:
 
 images:
   - name: sample-api
-    newName: wesleywillians/sample-api
+    newName: guilhermefaleiros/sample-api
     newTag: latest
