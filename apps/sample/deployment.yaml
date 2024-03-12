@@ -15,4 +15,4 @@ spec:
         - name: sample-api
           image: sample-api
           ports:
-            - containerPort: 8080
+            - containerPort: 3000
